@@ -21,7 +21,7 @@ Simple API request:
 ```
 {
   "colors": [
-    {"value": "#00FF00"}
+    {"value": "#E37171"}
   ]
 }
 ```
@@ -36,7 +36,7 @@ Now let's make it more interesting...
 
 `GET /hexbot?count=1000&width=500&height=500&seed=FF7F50,FFD700,FF8C00`
 
-![](https://user-images.githubusercontent.com/212941/59171655-d6b1a680-8af8-11e9-9adf-570e485d81ad.gif)
+![](https://media.giphy.com/media/yoJC2jvHhRoYfaOPRK/giphy.gif)
 
 Now we've added 1000 colors, each with coordinates, and seeded the colors with a range of hex codes. Then we've built up the frames over 100 iterations—much more interesting!
 
