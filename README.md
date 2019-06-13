@@ -21,7 +21,7 @@ Simple API request:
 ```
 {
   "colors": [
-    {"value": "#52a351"}
+    {"value": "#00FF00"}
   ]
 }
 ```
